@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cibacopa", "Cibacopa\Cibacopa.csproj", "{F4116218-59CA-1ED0-ADEB-12234DF74E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundoC\HolaMundo.csproj", "{A3B65E0F-E926-2B65-3C30-737C0576A8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4116218-59CA-1ED0-ADEB-12234DF74E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4116218-59CA-1ED0-ADEB-12234DF74E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4116218-59CA-1ED0-ADEB-12234DF74E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4116218-59CA-1ED0-ADEB-12234DF74E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B65E0F-E926-2B65-3C30-737C0576A8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B65E0F-E926-2B65-3C30-737C0576A8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B65E0F-E926-2B65-3C30-737C0576A8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B65E0F-E926-2B65-3C30-737C0576A8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568BA432-4603-4086-8F69-C652E00115F4}
+	EndGlobalSection
+EndGlobal
